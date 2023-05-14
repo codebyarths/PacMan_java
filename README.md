@@ -1,3 +1,9 @@
 # PacMan_java
-jogo feito para APS UNIP
-ALUNOS : Arthur, Breno, Victor, Igor, José
+
+# Projeto_APS 
+
+ARTHUR IQUES: G46913-5C
+BRENO SANTOS: G518GC5
+IGOR RAFAEL: N957115
+VITOR DAVI: G4914B0
+LUIS HENRIQUE: N9300B-0
